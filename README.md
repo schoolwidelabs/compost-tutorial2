@@ -13,6 +13,7 @@ When you turn the micro:bt on, ``||gatorLog: initialize||`` the data logger sens
 
 ```blocks
 gatorLog.begin()
+basic.showNumber(10)
 ```
 
 ```ghost
